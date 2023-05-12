@@ -1,0 +1,12 @@
+motortest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+motortest\list.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+motortest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+motortest\list.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+motortest\list.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+motortest\list.o: ../Core/Inc/FreeRTOSConfig.h
+motortest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+motortest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+motortest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+motortest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+motortest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+motortest\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
