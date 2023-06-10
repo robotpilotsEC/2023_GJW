@@ -1,0 +1,15 @@
+motortest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+motortest\queue.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+motortest\queue.o: D:\MDK\ARM\ARMCC\Bin\..\include\string.h
+motortest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+motortest\queue.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+motortest\queue.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+motortest\queue.o: ../Core/Inc/FreeRTOSConfig.h
+motortest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+motortest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+motortest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+motortest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+motortest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+motortest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+motortest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+motortest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

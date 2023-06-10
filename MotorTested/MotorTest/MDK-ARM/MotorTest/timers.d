@@ -1,0 +1,15 @@
+motortest\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+motortest\timers.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+motortest\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+motortest\timers.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+motortest\timers.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+motortest\timers.o: ../Core/Inc/FreeRTOSConfig.h
+motortest\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+motortest\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+motortest\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+motortest\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+motortest\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+motortest\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+motortest\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+motortest\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+motortest\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
