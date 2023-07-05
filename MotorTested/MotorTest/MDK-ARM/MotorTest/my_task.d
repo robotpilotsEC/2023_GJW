@@ -51,3 +51,4 @@ motortest\my_task.o: .\USER\rp_pack\motor.h
 motortest\my_task.o: .\USER\rp_pack\motor_def.h
 motortest\my_task.o: .\USER\drivers\drv_can.h
 motortest\my_task.o: .\USER\configs\config_can.h
+motortest\my_task.o: .\USER\devices\my_motor.h

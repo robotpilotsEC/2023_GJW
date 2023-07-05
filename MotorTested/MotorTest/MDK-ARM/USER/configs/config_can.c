@@ -16,10 +16,10 @@ void CAN1_rxDataHandler(uint32_t canId, uint8_t *rxBuf)
 			motor_3508.rx(&motor_3508, rxBuf, 8);
 			break;
 		case motor_6020_id:
-			motor_6020.rx(&motor_3508, rxBuf, 8);
+			motor_6020.rx(&motor_6020, rxBuf, 8);
 			break;
 		case motor_2006_id:
-			motor_2006.rx(&motor_3508, rxBuf, 8);
+			motor_2006.rx(&motor_2006, rxBuf, 8);
 			break;
 		default:
 			break;
@@ -34,10 +34,10 @@ void CAN2_rxDataHandler(uint32_t canId, uint8_t *rxBuf)
 			motor_3508.rx(&motor_3508, rxBuf, 8);
 			break;
 		case motor_6020_id:
-			motor_6020.rx(&motor_3508, rxBuf, 8);
+			motor_6020.rx(&motor_6020, rxBuf, 8);
 			break;
 		case motor_2006_id:
-			motor_2006.rx(&motor_3508, rxBuf, 8);
+			motor_2006.rx(&motor_2006, rxBuf, 8);
 			break;
 		default:
 			break;

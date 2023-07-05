@@ -1126,7 +1126,7 @@ I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x6328543F)
 I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x6328543F)
 I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x6328543F)
 I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x6328543F)
-I (.\USER\configs\config_can.h)(0x64843733)
+I (.\USER\configs\config_can.h)(0x64846F5A)
 I (D:\MDK\ARM\ARMCC\include\string.h)(0x56FE42DE)
 F (.\USER\drivers\drv_can.h)(0x637093EC)()
 F (.\USER\drivers\drv_haltick.c)(0x63775601)(--c99 -c --cpu Cortex-M4.fp.sp -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include -I .\USER\drivers -I .\USER\rp_pack -I .\USER\configs -I .\USER\hardwares -I .\USER\modules -I .\USER\devices-I.\RTE\_MotorTest-ID:\MDK\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\MDK\ARM\PACK\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx-o motortest\drv_haltick.o --omf_browse motortest\drv_haltick.crf --depend motortest\drv_haltick.d)
@@ -1163,8 +1163,8 @@ I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x6328543F)
 I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x6328543F)
 I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x6328543F)
 F (.\USER\drivers\drv_haltick.h)(0x63775601)()
-F (.\USER\configs\config_can.c)(0x64843018)(--c99 -c --cpu Cortex-M4.fp.sp -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include -I .\USER\drivers -I .\USER\rp_pack -I .\USER\configs -I .\USER\hardwares -I .\USER\modules -I .\USER\devices-I.\RTE\_MotorTest-ID:\MDK\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\MDK\ARM\PACK\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx-o motortest\config_can.o --omf_browse motortest\config_can.crf --depend motortest\config_can.d)
-I (USER\configs\config_can.h)(0x64843733)
+F (.\USER\configs\config_can.c)(0x64846C79)(--c99 -c --cpu Cortex-M4.fp.sp -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include -I .\USER\drivers -I .\USER\rp_pack -I .\USER\configs -I .\USER\hardwares -I .\USER\modules -I .\USER\devices-I.\RTE\_MotorTest-ID:\MDK\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\MDK\ARM\PACK\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx-o motortest\config_can.o --omf_browse motortest\config_can.crf --depend motortest\config_can.d)
+I (USER\configs\config_can.h)(0x64846F5A)
 I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x6328543F)
 I (../Core/Inc/stm32f4xx_hal_conf.h)(0x64841CCD)
 I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x6328543F)
@@ -1234,7 +1234,7 @@ I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x6328543F)
 I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x6328543F)
 I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x6328543F)
 I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x6328543F)
-F (.\USER\tasks\my_task.c)(0x648433CA)(--c99 -c --cpu Cortex-M4.fp.sp -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include -I .\USER\drivers -I .\USER\rp_pack -I .\USER\configs -I .\USER\hardwares -I .\USER\modules -I .\USER\devices-I.\RTE\_MotorTest-ID:\MDK\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\MDK\ARM\PACK\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx-o motortest\my_task.o --omf_browse motortest\my_task.crf --depend motortest\my_task.d)
+F (.\USER\tasks\my_task.c)(0x6493034C)(--c99 -c --cpu Cortex-M4.fp.sp -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include -I .\USER\drivers -I .\USER\rp_pack -I .\USER\configs -I .\USER\hardwares -I .\USER\modules -I .\USER\devices-I.\RTE\_MotorTest-ID:\MDK\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\MDK\ARM\PACK\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx-o motortest\my_task.o --omf_browse motortest\my_task.crf --depend motortest\my_task.d)
 I (USER\tasks\my_task.h)(0x64842182)
 I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x6328543F)
 I (../Core/Inc/stm32f4xx_hal_conf.h)(0x64841CCD)
@@ -1285,7 +1285,8 @@ I (.\USER\modules\my_motor_control.h)(0x6484332A)
 I (.\USER\rp_pack\motor.h)(0x6378F70C)
 I (.\USER\rp_pack\motor_def.h)(0x6379A1CB)
 I (.\USER\drivers\drv_can.h)(0x637093EC)
-I (.\USER\configs\config_can.h)(0x64843733)
+I (.\USER\configs\config_can.h)(0x64846F5A)
+I (.\USER\devices\my_motor.h)(0x64842410)
 F (.\USER\tasks\my_task.h)(0x64842182)()
 F (.\USER\devices\my_motor.c)(0x64842410)(--c99 -c --cpu Cortex-M4.fp.sp -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include -I .\USER\drivers -I .\USER\rp_pack -I .\USER\configs -I .\USER\hardwares -I .\USER\modules -I .\USER\devices-I.\RTE\_MotorTest-ID:\MDK\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\MDK\ARM\PACK\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx-o motortest\my_motor.o --omf_browse motortest\my_motor.crf --depend motortest\my_motor.d)
 I (USER\devices\my_motor.h)(0x64842410)
@@ -1322,7 +1323,7 @@ I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x6328543F)
 I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x6328543F)
 I (.\USER\rp_pack\motor.h)(0x6378F70C)
 I (.\USER\rp_pack\motor_def.h)(0x6379A1CB)
-I (.\USER\configs\config_can.h)(0x64843733)
+I (.\USER\configs\config_can.h)(0x64846F5A)
 F (.\USER\modules\my_motor_control.c)(0x64842F1C)(--c99 -c --cpu Cortex-M4.fp.sp -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include -I .\USER\drivers -I .\USER\rp_pack -I .\USER\configs -I .\USER\hardwares -I .\USER\modules -I .\USER\devices-I.\RTE\_MotorTest-ID:\MDK\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\MDK\ARM\PACK\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx-o motortest\my_motor_control.o --omf_browse motortest\my_motor_control.crf --depend motortest\my_motor_control.d)
 I (USER\modules\my_motor_control.h)(0x6484332A)
 I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x6328543F)
@@ -1359,5 +1360,5 @@ I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x6328543F)
 I (.\USER\rp_pack\motor.h)(0x6378F70C)
 I (.\USER\rp_pack\motor_def.h)(0x6379A1CB)
 I (.\USER\devices\my_motor.h)(0x64842410)
-I (.\USER\configs\config_can.h)(0x64843733)
+I (.\USER\configs\config_can.h)(0x64846F5A)
 I (.\USER\drivers\drv_haltick.h)(0x63775601)

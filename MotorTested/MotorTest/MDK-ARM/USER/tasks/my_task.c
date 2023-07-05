@@ -3,6 +3,7 @@
 #include "my_motor_control.h"
 #include "drv_can.h"
 #include "config_can.h"
+#include "my_motor.h"
 
 void Control_Task(void const * argument)
 {
@@ -11,6 +12,8 @@ void Control_Task(void const * argument)
 		Shooting_Heartbeat();
 		
 		My_Motor_Control();
+		
+//		can1_0x1FF_send_buff[motor_6020.id.buff_p] = 1500;
 		
 		CAN1_Send_With_int16_to_uint8(0x1FF,can1_0x1FF_send_buff);
 		CAN2_Send_With_int16_to_uint8(0x1FF,can2_0x1FF_send_buff);
