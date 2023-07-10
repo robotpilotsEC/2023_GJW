@@ -1,0 +1,12 @@
+laser\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+laser\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+laser\port.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+laser\port.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+laser\port.o: ../Core/Inc/FreeRTOSConfig.h
+laser\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+laser\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+laser\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+laser\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+laser\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+laser\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+laser\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

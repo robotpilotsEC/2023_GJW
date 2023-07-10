@@ -36,3 +36,4 @@ motortest\drv_all.o: USER\drivers\drv_can.h
 motortest\drv_all.o: .\USER\modules\my_motor_control.h
 motortest\drv_all.o: .\USER\rp_pack\motor.h
 motortest\drv_all.o: .\USER\rp_pack\motor_def.h
+motortest\drv_all.o: USER\drivers\drv_timer.h

@@ -1,0 +1,15 @@
+laser\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+laser\timers.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+laser\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+laser\timers.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+laser\timers.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+laser\timers.o: ../Core/Inc/FreeRTOSConfig.h
+laser\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+laser\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+laser\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+laser\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+laser\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+laser\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+laser\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+laser\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+laser\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

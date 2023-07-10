@@ -1,0 +1,14 @@
+laser\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+laser\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+laser\croutine.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+laser\croutine.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+laser\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+laser\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+laser\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+laser\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+laser\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+laser\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+laser\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+laser\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+laser\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+laser\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

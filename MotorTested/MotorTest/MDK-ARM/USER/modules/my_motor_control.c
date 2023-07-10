@@ -62,7 +62,7 @@ void My_Motor_Init(void)
 	
 }
 
-void Shooting_Heartbeat(void)
+void Motor_Heartbeat(void)
 {
 	motor_3508.heartbeat(&motor_3508);
 	motor_2006.heartbeat(&motor_2006);

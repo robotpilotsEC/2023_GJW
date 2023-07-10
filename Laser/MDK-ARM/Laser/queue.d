@@ -1,0 +1,15 @@
+laser\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+laser\queue.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+laser\queue.o: D:\MDK\ARM\ARMCC\Bin\..\include\string.h
+laser\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+laser\queue.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+laser\queue.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+laser\queue.o: ../Core/Inc/FreeRTOSConfig.h
+laser\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+laser\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+laser\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+laser\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+laser\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+laser\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+laser\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+laser\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

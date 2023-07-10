@@ -1,0 +1,15 @@
+laser\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+laser\event_groups.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+laser\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+laser\event_groups.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+laser\event_groups.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+laser\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+laser\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+laser\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+laser\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+laser\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+laser\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+laser\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+laser\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+laser\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+laser\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

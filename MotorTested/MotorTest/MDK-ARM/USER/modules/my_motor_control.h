@@ -8,7 +8,7 @@
 #define MODE_0
 void My_Motor_Init(void);
 void My_Motor_Control(void);
-void Shooting_Heartbeat(void);
+void Motor_Heartbeat(void);
 
 #endif
 

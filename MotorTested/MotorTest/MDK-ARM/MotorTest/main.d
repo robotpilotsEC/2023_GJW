@@ -48,6 +48,7 @@ motortest\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h
 motortest\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
 motortest\main.o: ../Core/Inc/can.h
 motortest\main.o: ../Core/Inc/dma.h
+motortest\main.o: ../Core/Inc/tim.h
 motortest\main.o: ../Core/Inc/usart.h
 motortest\main.o: ../Core/Inc/gpio.h
 motortest\main.o: .\USER\drivers\drv_all.h
