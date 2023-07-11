@@ -8,9 +8,9 @@
 0x1FF ¶ÔÓ¦idÎª0x205~0x208
 */
 
-#define motor_3508_id  0x204
+#define motor_3508_id  0x201
 #define motor_6020_id  0x205
-#define motor_2006_id  0x201
+#define motor_2006_id  0x202
 
 extern int16_t can1_0x1FF_send_buff[4];
 extern int16_t can2_0x1FF_send_buff[4];

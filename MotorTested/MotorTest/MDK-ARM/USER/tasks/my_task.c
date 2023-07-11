@@ -6,6 +6,7 @@
 #include "my_motor.h"
 #include "drv_timer.h"
 
+/*地线插在那三根针的下面那根*/
 int16_t pwm_test = 0;
 
 void Control_Task(void const * argument)
